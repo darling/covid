@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.832ac053.chunk.js",
+    "main.js.map": "/static/js/main.832ac053.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9009d273.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9009d273.js.map",
+    "static/css/2.a6d3956a.chunk.css": "/static/css/2.a6d3956a.chunk.css",
+    "static/js/2.13874c3c.chunk.js": "/static/js/2.13874c3c.chunk.js",
+    "static/js/2.13874c3c.chunk.js.map": "/static/js/2.13874c3c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b7b46083b6f3d9ce5eaad10d41efb0e8.js": "/precache-manifest.b7b46083b6f3d9ce5eaad10d41efb0e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a6d3956a.chunk.css.map": "/static/css/2.a6d3956a.chunk.css.map",
+    "static/media/Coronavirus.png": "/static/media/Coronavirus.812218b9.png",
+    "static/media/bad-breath.png": "/static/media/bad-breath.6ff91faa.png",
+    "static/media/cough-vector.png": "/static/media/cough-vector.9f4fc680.png",
+    "static/media/fever.png": "/static/media/fever.87d3bfe0.png",
+    "static/media/graphic-covid19.png": "/static/media/graphic-covid19.ddab595a.png",
+    "static/media/patient.png": "/static/media/patient.2f8d7eb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9009d273.js",
+    "static/css/2.a6d3956a.chunk.css",
+    "static/js/2.13874c3c.chunk.js",
+    "static/js/main.832ac053.chunk.js"
+  ]
+}
